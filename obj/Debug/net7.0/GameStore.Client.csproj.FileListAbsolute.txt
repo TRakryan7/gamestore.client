@@ -806,8 +806,6 @@ C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\build-gz\EXzaEXst.gz
 C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\build-gz\4rHXw+6N.gz
 C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\build-gz\AnFkJ7zn.gz
 C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\build-gz\+WaSnpUZ.gz
-C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\build-gz\KyGUoaaU.gz
-C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\build-gz\FQ1jCL0+.gz
 C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\build-gz\S1e5iUT2.gz
 C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\blazor.boot.json
 C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\staticwebassets\msbuild.GameStore.Client.Microsoft.AspNetCore.StaticWebAssets.props
@@ -818,7 +816,6 @@ C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\staticwebassets.pack.
 C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\staticwebassets.build.json
 C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\staticwebassets.development.json
 C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\scopedcss\bundle\GameStore.Client.styles.css
 C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\scopedcss\projectbundle\GameStore.Client.bundle.scp.css
 C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\GameStore.Client.csproj.CopyComplete
@@ -826,3 +823,5 @@ C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\GameStore.Client.dll
 C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\refint\GameStore.Client.dll
 C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\GameStore.Client.pdb
 C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\ref\GameStore.Client.dll
+C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\build-gz\KyGUoaaU.gz
+C:\laragon\www\GameStore\gamestore.client\obj\Debug\net7.0\build-gz\FQ1jCL0+.gz

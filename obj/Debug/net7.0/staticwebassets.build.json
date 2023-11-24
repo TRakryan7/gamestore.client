@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1JyTK6kydxjQfgIAcS4eds0bhVMZ4q1pLIV66vcSDwM=",
+  "Hash": "dw2iPBgJY+HC9DpCt3ye0QJr4HYbfc4Uz0p+uYPB66s=",
   "Source": "GameStore.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -7155,23 +7155,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
-    },
-    {
-      "Identity": "C:\\laragon\\www\\GameStore\\gamestore.client\\wwwroot\\sample-data\\weather.json",
-      "SourceId": "GameStore.Client",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\laragon\\www\\GameStore\\gamestore.client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "sample-data/weather.json",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\sample-data\\weather.json"
     }
   ]
 }
